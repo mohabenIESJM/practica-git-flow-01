@@ -1,25 +1,25 @@
 div.calc {
-  background-color: #ccc;
+  background-color: #928c8c;
   margin: 0px auto;
   width: fit-content;
   height: auto;
   padding: 1.5vw;
-  box-shadow: 2px 2px 5px gray;
+  box-shadow: 2px 2px 5px grey;
 }
 
 button {
-  background-color: white;
+  background-color: #f3efef;
   font-size: 1.5vw;
   border: none;
   height: 2.6vw;
   width: 2.6vw;
   margin: 5px;
-  box-shadow: 2px 2px 5px gray;
+  box-shadow: 2px 2px 5px #080000;
   transition: 0.2s;
 }
 
 button:hover {
-  background-color: #ddd;
+  background-color: rgb(245, 68, 68);
 
 }
 
